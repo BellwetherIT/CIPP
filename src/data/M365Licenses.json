@@ -11424,6 +11424,7 @@
     "Service_Plans_Included_Friendly_Names": "Power Platform Connectors in Microsoft 365 Copilot"
   },
   {
+<<<<<<< HEAD
     "Product_Display_Name": "Microsoft 365 E3",
     "String_Id": "SPE_E3",
     "GUID": "05e9a617-0261-4cee-bb44-138d3ef5d965",
@@ -11512,6 +11513,8 @@
     "Service_Plans_Included_Friendly_Names": "Microsoft 365 Apps for enterprise"
   },
   {
+=======
+>>>>>>> parent of 64d37ef8 (Merge remote-tracking branch 'upstream/patch-5')
     "Product_Display_Name": "Microsoft 365 E3",
     "String_Id": "SPE_E3",
     "GUID": "05e9a617-0261-4cee-bb44-138d3ef5d965",
